@@ -1,6 +1,4 @@
 # Programming Assignment 2 - PRML  
-### UBIT: haudipud  
-### UB ID: 50599797
 
 ## 📚 Overview
 This repository contains my submission for Programming Assignment 2 (PA2) in Pattern Recognition and Machine Learning (PRML). The assignment consists of five sections covering classification, neural networks, and convolutional neural networks using both custom and library-based implementations.
