@@ -34,5 +34,4 @@ This repository contains my submission for Programming Assignment 2 (PA2) in Pat
 
 ---
 
-## 📂 Folder Structure
 
